@@ -1,0 +1,13 @@
+.d1{
+    width: 400px;
+    height: 425px;
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    width: 250px;
+    height: 50px;
+}
+
+
